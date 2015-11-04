@@ -1,0 +1,30 @@
+<?php
+$lang['all'] = 'Alle';
+$lang['desc_css_search'] = 'Søk etter treff i stilsett';
+$lang['desc_content_search'] = 'Søk etter treff i innholdssider';
+$lang['desc_filter_all'] = 'Veksle alle filtre';
+$lang['desc_oldmodtemplate_search'] = 'Søk i gamle modulmaler.';
+$lang['desc_template_search'] = 'Søk etter treff i maler';
+$lang['error_nosearchtext'] = 'Vennligst sett inn et søkeord';
+$lang['error_select_slave'] = 'Du må minst velge en filtertype';
+$lang['filter'] = 'Filtrer';
+$lang['finished'] = 'Ferdig';
+$lang['friendlyname'] = 'Administratorsøk';
+$lang['lbl_content_search'] = 'Søk i innholdssider';
+$lang['lbl_css_search'] = 'Søk i stilsett';
+$lang['lbl_gcb_search'] = 'Søk i globale innholdsblokker';
+$lang['lbl_oldmodtemplate_search'] = 'Søk i modulmaler';
+$lang['lbl_search_desc'] = 'Søk i beskrivelser <em>(der det kan gjøres)</em>';
+$lang['lbl_template_search'] = 'Søk i maler';
+$lang['moddescription'] = 'Et verktøy for å søke i databasetabeller etter rader som inneholder en spesifik tekst. Nyttig for å finne ut hvor enkelte stiler, tagger eller moduler er brukt.';
+$lang['placeholder_search_text'] = 'Tast inn søketekst';
+$lang['postinstall'] = 'Modul for administratorsøk er installert';
+$lang['postuninstall'] = 'Modul for administratorsøk er avinstallert';
+$lang['search'] = 'Søk';
+$lang['search_text'] = 'Søketekst';
+$lang['search_results'] = 'Søkeresultater';
+$lang['sectiondesc_oldmodtemplates'] = 'Resultater i denne seksjonen er ikke klikkbare siden hver enkelt modul tilbyr sitt eget administrasjonsgrensesnitt for å endre maler';
+$lang['settings'] = 'Innstillinger';
+$lang['starting'] = 'Starter';
+$lang['warn_clickthru'] = 'Dette vil åpne et nytt skjema. Om du avbryter fra det skjemaet kan det hende du ikke blir sendt tilbake til denne siden. Søkeresultatene kan bli borte.';
+?>
